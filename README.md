@@ -130,6 +130,6 @@ public class InsertionSort {
 ### What to submit?
 
 - Your source codes archived in `.zip` or `.jar` format.
-  - Subject: Homework#1, Section [A|B], ¼º¸í, ÇÐ¹ø
-  - Email to your TA (±è½ÂÈ£, ohgnues@hanyang.ac.kr)
+  - Subject: Homework#1, Section [A|B], ì„±ëª…, í•™ë²ˆ
+  - Email to your TA (ê¹€ìŠ¹í˜¸, ohgnues@hanyang.ac.kr)
 
