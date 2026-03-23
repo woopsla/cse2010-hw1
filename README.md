@@ -5,7 +5,7 @@
 In homework #1, you have two programs to complete: `Utils.java` and `InsertionSort.java`.
 
 ### Problem 1
-Complete `Utils.java`. You have four methods to fill in.
+Complete `Utils.java`. You have six methods to fill in.
 
 ```java
 public class Utils {
